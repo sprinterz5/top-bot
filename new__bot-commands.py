@@ -6,7 +6,6 @@ from discord.ext import commands
 from discord import utils, member
 import datetime
 from discord.utils import get
-import speech_recognition as sr
 import os
 import requests
 import youtube_dl
