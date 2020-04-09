@@ -1,0 +1,7 @@
+discord.py
+pyowm
+aiohttp
+datetime
+speech_recognition
+requests
+youtube_dl

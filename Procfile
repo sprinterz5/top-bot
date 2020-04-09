@@ -1,0 +1,1 @@
+worker: new__bot-commands.py
